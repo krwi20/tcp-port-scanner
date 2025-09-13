@@ -54,3 +54,5 @@ Some protocols (like **SSH**, **FTP**, **SMTP**) send a greeting immediately, wh
 
 ## License
 MIT (see `LICENSE`).
+
+For longer notes, see [docs/LEARNING.md](docs/LEARNING.md)
