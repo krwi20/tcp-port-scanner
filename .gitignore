@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Editor/OS
+*.swp
+.DS_Store
+
+# Scan outputs and logs
+scan_*.txt
+*.log
